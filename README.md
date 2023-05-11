@@ -1,7 +1,7 @@
-**Eigen's official git repository have been moved to https://gitlab.com/libeigen/eigen**
+**Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.**
 
-For convenience, this deprecated mirror repository will be kept as is for a short period of time before being **deleted**.
+For more information go to http://eigen.tuxfamily.org/.
 
-So please **update your git clones & submodules to https://gitlab.com/libeigen/eigen.git as soon as possible**.
+For ***pull request*** please only use the official repository at https://bitbucket.org/eigen/eigen.
 
-Also note that it is not possible keep it sync with the new official git repository because the hashes do not match. 
+For ***bug reports*** and ***feature requests*** go to http://eigen.tuxfamily.org/bz.
